@@ -1,4 +1,4 @@
-# RCU：Recommendation Contrastive Unlearning
+# ReCUR：Recommendation Contrastive Unlearning
 
 #### Authors: 
 - [Tzu-Hsuan Yang]() (tzuhsuan1010@gmail.com)
